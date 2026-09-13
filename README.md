@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 Online fashion shoppers have access to a large amount of product information — product photos, ratings, reviews, size charts, fabric details, customer photos, and product specifications.
 
@@ -16,7 +16,7 @@ Instead of providing more information, FitSure aims to make existing information
 
 ---
 
-## 🎯 Problem
+## Problem
 
 ### User Problem
 
@@ -36,7 +36,7 @@ The opportunity is to reduce the **cognitive effort** involved in evaluating a p
 
 ---
 
-## 🔎 User Research
+## User Research
 
 I conducted a short survey with **26 online fashion shoppers** to understand how people evaluate clothing products before purchasing them.
 
@@ -64,7 +64,7 @@ Users were already consulting several sources before making a decision. The bigg
 
 ---
 
-## 🧠 JTBD
+## JTBD
 
 ### Job to Be Done
 
@@ -74,7 +74,7 @@ The JTBD helped frame the problem around the user's underlying decision rather t
 
 ---
 
-## 💡 Opportunity
+## Opportunity
 
 ### How might we...
 
@@ -84,7 +84,7 @@ This became the basis for exploring potential product solutions.
 
 ---
 
-## 🚀 Solution
+## Solution
 
 # FitSure Purchase Confidence
 
@@ -106,7 +106,7 @@ The confidence indicator is intended as **decision support**, not a guarantee th
 
 ---
 
-## 🧩 MVP
+## MVP
 
 The MVP focuses on validating one core hypothesis:
 
@@ -134,7 +134,7 @@ The first version deliberately focuses on the **information-synthesis problem** 
 
 ---
 
-## 📊 Feature Prioritization
+## Feature Prioritization
 
 Potential features were evaluated using **RICE prioritization** based on:
 
@@ -147,20 +147,19 @@ The core information-synthesis experience was prioritized because it directly ad
 
 ---
 
-## 🎨 Prototype
+## Prototype
 
 I created a working mobile prototype demonstrating how FitSure could be integrated into an existing fashion-commerce product page.
 
 ### Prototype Flow
 
-```text
-Existing Product Page
-        ↓
-Purchase Confidence
-        ↓
-Confidence Breakdown
-        ↓
-Supporting Evidence
+**Existing Product Page**  
+↓  
+**Purchase Confidence**  
+↓  
+**Confidence Breakdown**  
+↓  
+**Supporting Evidence**
 
 ### Key Screens
 
@@ -169,7 +168,7 @@ Supporting Evidence
 3. Confidence Breakdown
 4. Evidence / Reviews
 
-### 🔗 Prototype
+### Prototype
 
 **Figma:** [View the interactive prototype](ADD_FIGMA_LINK)
 
@@ -177,7 +176,7 @@ Supporting Evidence
 
 ---
 
-## 📈 Success Metrics
+## Success Metrics
 
 The product should be evaluated based on whether it helps users make decisions with **greater confidence and less effort**.
 
@@ -205,9 +204,11 @@ This directly measures the core user problem identified during research.
 - Return rate
 - Product-page abandonment
 
+The guardrails help ensure that increased confidence does not come at the cost of increased returns or other negative downstream outcomes.
+
 ---
 
-## 🧪 A/B Testing Plan
+## A/B Testing Plan
 
 I designed an A/B testing framework to validate the core product hypothesis.
 
@@ -249,7 +250,7 @@ If confidence improves but returns increase, the next step would be to investiga
 
 ---
 
-## 🗺️ Product Roadmap
+## Product Roadmap
 
 The roadmap expands the product based on validation of the core experience.
 
@@ -278,9 +279,78 @@ Potential capabilities:
 
 ### Roadmap Principle
 
-```text
-General Decision Support
-          ↓
-Personalization
-          ↓
-Visual Assistance
+**General Decision Support → Personalization → Visual Assistance**
+
+The roadmap intentionally moves from the simplest validated problem toward more advanced capabilities rather than starting with complex AI functionality.
+
+---
+
+## Key Product Learnings
+
+- **More information isn't always the answer.** The opportunity can be making existing information easier to interpret and act on.
+- **Start with the smallest useful product.** The MVP focuses on information synthesis before introducing more complex capabilities.
+- **Validate before scaling.** Future iterations should depend on experiment results and remaining sources of user uncertainty.
+- **Start with the user's decision, not the technology.** The solution was developed from the user's purchase decision and pain points rather than starting with an AI capability.
+
+---
+
+## Product Development Process
+
+**User Research → Research Synthesis → Problem Definition → JTBD → User Journey & Pain Points → Ideation → RICE Prioritization → MVP Definition → Prototype → Metrics & A/B Test Design → Product Roadmap**
+
+---
+
+## Tools & Methods
+
+### Tools
+
+- Google Forms — User research
+- Excel / Google Sheets — Research analysis
+- Figma — Product prototyping
+- GitHub — Project documentation
+
+### Product Methods
+
+- User Research
+- JTBD
+- User Journey Mapping
+- Problem Framing
+- RICE Prioritization
+- MVP Definition
+- Product Metrics
+- A/B Test Design
+- Product Roadmapping
+
+---
+
+## Project Artifacts
+
+| Artifact | Description |
+|---|---|
+| `research/` | Survey questions and cleaned/anonymized research data |
+| `product/` | Problem definition, JTBD, user journey, prioritization and roadmap |
+| `prototype/` | Prototype screenshots and supporting files |
+| `presentation/` | Product case study presentation |
+
+---
+
+## Disclaimer
+
+FitSure is an **independent product management portfolio project** and is not an existing Myntra feature.
+
+The project uses primary user research conducted through a **26-response survey** and observations of online fashion-shopping experiences.
+
+Any product-level metrics, review excerpts, percentages, or confidence values shown in the prototype are **illustrative data created for demonstration purposes** and should not be interpreted as actual company data or experimental results.
+
+The A/B test described in this case study is a **proposed validation framework and was not conducted**.
+
+---
+
+## Author
+
+**Rhea Naveen**
+
+Computer Science Undergraduate  
+Product Management / Data Analytics
+
+[LinkedIn](ADD_LINKEDIN_LINK) · [Figma Prototype](ADD_FIGMA_LINK)
