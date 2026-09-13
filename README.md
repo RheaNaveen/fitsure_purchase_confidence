@@ -205,8 +205,6 @@ This directly measures the core user problem identified during research.
 - Return rate
 - Product-page abandonment
 
-The guardrails help ensure that increased confidence does not come at the cost of increased returns or other negative downstream outcomes.
-
 ---
 
 ## 🧪 A/B Testing Plan
