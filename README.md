@@ -353,4 +353,4 @@ The A/B test described in this case study is a **proposed validation framework a
 Computer Science Undergraduate  
 Product Management / Data Analytics
 
-[LinkedIn](ADD_LINKEDIN_LINK) · [Figma Prototype](ADD_FIGMA_LINK)
+[LinkedIn](https://www.linkedin.com/in/rheanaveen/) · [Figma Prototype](ADD_FIGMA_LINK)
