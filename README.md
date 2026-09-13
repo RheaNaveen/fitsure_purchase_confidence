@@ -161,3 +161,128 @@ Purchase Confidence
 Confidence Breakdown
         ↓
 Supporting Evidence
+
+### Key Screens
+
+1. Existing Product Page
+2. Purchase Confidence
+3. Confidence Breakdown
+4. Evidence / Reviews
+
+### 🔗 Prototype
+
+**Figma:** [View the interactive prototype](ADD_FIGMA_LINK)
+
+> **Prototype data disclaimer:** Any percentages, review counts, review excerpts, or confidence values shown within the prototype are illustrative data created to demonstrate the product experience. They are not actual Myntra data and are not results from the user survey.
+
+---
+
+## 📈 Success Metrics
+
+The product should be evaluated based on whether it helps users make decisions with **greater confidence and less effort**.
+
+### Primary Metric
+
+**Purchase Decision Confidence**
+
+Users would be asked:
+
+> "How confident are you that this product will meet your expectations?"
+
+Measured on a **1–5 scale**.
+
+This directly measures the core user problem identified during research.
+
+### Secondary Metrics
+
+- Decision time
+- Add-to-cart rate
+- Purchase conversion rate
+- Purchase Confidence feature engagement
+
+### Guardrail Metrics
+
+- Return rate
+- Product-page abandonment
+
+The guardrails help ensure that increased confidence does not come at the cost of increased returns or other negative downstream outcomes.
+
+---
+
+## 🧪 A/B Testing Plan
+
+I designed an A/B testing framework to validate the core product hypothesis.
+
+### Hypothesis
+
+> **If scattered product information is synthesized into a concise, evidence-backed Purchase Confidence feature, shoppers will make decisions with less effort and greater confidence.**
+
+### Experiment Design
+
+| Group | Experience |
+|---|---|
+| **Control** | Existing product page |
+| **Treatment** | Existing product page + Purchase Confidence |
+
+Eligible users would be randomly assigned approximately **50/50** between the two groups.
+
+### Primary Metric
+
+**Purchase Decision Confidence (1–5)**
+
+### Secondary Metrics
+
+- Decision time
+- Add-to-cart rate
+- Purchase conversion
+- Feature engagement
+
+### Guardrail
+
+**Return rate**
+
+### Decision Logic
+
+If the treatment improves confidence and/or decision efficiency without negatively affecting conversion or returns, the feature could move toward broader rollout.
+
+If confidence improves but returns increase, the next step would be to investigate whether the synthesized insights are creating **misplaced confidence**.
+
+> **Important:** This A/B test was designed as a validation plan and was **not actually conducted**. No experimental results are claimed.
+
+---
+
+## 🗺️ Product Roadmap
+
+The roadmap expands the product based on validation of the core experience.
+
+### V1 — Reduce Information Overload
+
+**Purchase Confidence**
+
+Synthesize existing product signals into a concise decision-support experience.
+
+### V2 — Personalize the Experience
+
+Potential capabilities:
+
+- Personalized size context
+- Relevant review filtering
+- Previous purchase context
+- User-specific confidence signals
+
+### V3 — Address Remaining Visual Uncertainty
+
+Potential capabilities:
+
+- AI-assisted visual preview
+- Wardrobe compatibility
+- Occasion-based recommendations
+
+### Roadmap Principle
+
+```text
+General Decision Support
+          ↓
+Personalization
+          ↓
+Visual Assistance
