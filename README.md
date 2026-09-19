@@ -170,7 +170,7 @@ I created a working mobile prototype demonstrating how FitSure could be integrat
 
 ### Prototype
 
-**Figma:** [View the interactive prototype](https://www.figma.com/make/ihaMQRM6PrKkxNcVrLWaQn/Mobile-Fashion-E-Commerce-Product-Page?fullscreen=1&t=NI0xuZXzCPbHeePu-1&code-node-id=0-6)
+**Figma Make:** [View the interactive prototype](https://www.figma.com/make/ihaMQRM6PrKkxNcVrLWaQn/Mobile-Fashion-E-Commerce-Product-Page?fullscreen=1&t=NI0xuZXzCPbHeePu-1&code-node-id=0-6)
 
 > **Prototype data disclaimer:** Any percentages, review counts, review excerpts, or confidence values shown within the prototype are illustrative data created to demonstrate the product experience. They are not actual Myntra data and are not results from the user survey.
 
@@ -306,7 +306,7 @@ The roadmap intentionally moves from the simplest validated problem toward more 
 
 - Google Forms — User research
 - Excel / Google Sheets — Research analysis
-- Figma — Product prototyping
+- Figma Make — AI-assisted prototype generation
 - GitHub — Project documentation
 
 ### Product Methods
@@ -353,4 +353,4 @@ The A/B test described in this case study is a **proposed validation framework a
 Computer Science Undergraduate  
 Product Management / Data Analytics
 
-[LinkedIn](https://www.linkedin.com/in/rheanaveen/) · [Figma Prototype](https://www.figma.com/make/ihaMQRM6PrKkxNcVrLWaQn/Mobile-Fashion-E-Commerce-Product-Page?fullscreen=1&t=NI0xuZXzCPbHeePu-1&code-node-id=0-6)
+[LinkedIn](https://www.linkedin.com/in/rheanaveen/) · [Figma Make Prototype](https://www.figma.com/make/ihaMQRM6PrKkxNcVrLWaQn/Mobile-Fashion-E-Commerce-Product-Page?fullscreen=1&t=NI0xuZXzCPbHeePu-1&code-node-id=0-6)
